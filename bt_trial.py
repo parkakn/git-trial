@@ -1,6 +1,8 @@
 import backtrader as bt
 import yfinance as yf
 
+# HELLO - EUGENE 
+
 class MyStrategy(bt.Strategy):
     def __init__(self):
         super().__init__()
